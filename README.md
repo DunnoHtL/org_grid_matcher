@@ -29,5 +29,3 @@ The output is:
 ```python
 ('Microsoft Research', ['grid.419815.0'], ['United States'])
 ```
-
-## 
